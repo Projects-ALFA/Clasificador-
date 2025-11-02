@@ -14,5 +14,5 @@ Web site to identify faces on a dice.
   <img src="./images/4.png" width="400">
 </p>
 <p align="center">
-  <img src="./images/5.png">
+  <img src="./images/5.png" width="400">
 </p>
